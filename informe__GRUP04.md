@@ -101,9 +101,9 @@ No hi ha suficient informació per modelar l'escenari.
 - Text o imatge a 'On ...': Sí
   - **Text aportat:**
 
-  ```
+```
 No hi ha suficient informació per modelar l'escenari.
-  ```
+```
 
   - **Justificació:**
   > En el diagrama no mostra cap relació entre els CLIENTS i el ALLOTJAMENT, cosa que ens nega l'informació d'on dorm cadascú i en quin hotel. Per poder saber-ho hauriem de crear una nova entitat que els relacionès.
