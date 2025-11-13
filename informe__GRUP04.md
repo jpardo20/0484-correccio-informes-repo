@@ -67,9 +67,9 @@
 - Text o imatge a 'On ...': Sí
   - **Text aportat:**
 
-  ```
+```
 No hi ha suficient informació per modelar l'escenari.
-  ```
+```
 
   - **Justificació:**
   > Com el diagrama indica, cada RESERVA esta asignada a un VIATGE, això vol dir que impedeix la posibilitat de que una RESERVA englobi dos VIATGES.
